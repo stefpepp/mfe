@@ -1,3 +1,3 @@
 # mfp
-# Mockapp app for the purpose of practicing microfrontends 
+Mockapp app for the purpose of practicing microfrontends 
 
